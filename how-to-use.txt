@@ -1,0 +1,15 @@
+How to use
+----------
+
+Run "npm install" inside the backend and frontend folder to install all dependencies.
+
+Run "npm start" on both to see the app in action.
+
+
+Additional configuration
+------------------------
+
+-> MongoDB
+
+To connect to the MongoDB, it is necessary to set the connection url to the database in the variable MONGODB_URL in the backend app.js file.
+
